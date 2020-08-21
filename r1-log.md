@@ -1,10 +1,13 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Fernando Souza
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [August 21, Friday, 2020].
+
+This round will be about databases (SQL / NoSQL).
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1 (August 21, 2020)
 
-### R1D2
+Did some online classes on Udemy to remember the basics of SQL and databases.
+Installed Postgresql and pgAdmin for Ubuntu 20.04.
+
