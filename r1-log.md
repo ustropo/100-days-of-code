@@ -11,3 +11,7 @@ This round will be about databases (SQL / NoSQL).
 Did some online classes on Udemy to remember the basics of SQL and databases.
 Installed Postgresql and pgAdmin for Ubuntu 20.04.
 
+### R1D2 (August 22, 2020)
+
+Reviewed relationships (one-to-one, one-to-many, many-to-many), look-up tables and keys.
+Created some tables on Postgresql.
