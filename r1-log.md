@@ -15,3 +15,8 @@ Installed Postgresql and pgAdmin for Ubuntu 20.04.
 
 Reviewed relationships (one-to-one, one-to-many, many-to-many), look-up tables and keys.
 Created some tables on Postgresql.
+
+
+### R1D3 (August 23, 2020)
+
+Reviewed database normalization and some basic SQL commands.
