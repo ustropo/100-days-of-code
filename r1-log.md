@@ -20,3 +20,9 @@ Created some tables on Postgresql.
 ### R1D3 (August 23, 2020)
 
 Reviewed database normalization and some basic SQL commands.
+
+
+### R1D4 (August 24, 2020)
+
+Reviewed inner and outer joins. Finished Design Database course on Udemy.
+Earned my first badge on Hackerrank.
