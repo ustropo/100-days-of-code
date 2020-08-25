@@ -26,3 +26,8 @@ Reviewed database normalization and some basic SQL commands.
 
 Reviewed inner and outer joins. Finished Design Database course on Udemy.
 Earned my first badge on Hackerrank.
+
+### R1D5 (August 25, 2020)
+
+Did some exercises on Hackerrank and pgexercises.com.
+Earned my seconds badge on Hackerrank.
