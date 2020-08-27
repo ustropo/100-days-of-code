@@ -31,3 +31,7 @@ Earned my first badge on Hackerrank.
 
 Did some exercises on Hackerrank and pgexercises.com.
 Earned my seconds badge on Hackerrank.
+
+### R1D6 (August 26, 2020)
+
+Did some exercises on join in pgexercises.com.
