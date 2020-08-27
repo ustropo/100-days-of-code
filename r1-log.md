@@ -35,3 +35,9 @@ Earned my seconds badge on Hackerrank.
 ### R1D6 (August 26, 2020)
 
 Did some exercises on join in pgexercises.com.
+
+
+### R1D7 (August 27, 2020)
+
+Solved some exercises on inserting, deleting and updating records.
+Designed tables for my irrigation system.
