@@ -41,3 +41,8 @@ Did some exercises on join in pgexercises.com.
 
 Solved some exercises on inserting, deleting and updating records.
 Designed tables for my irrigation system.
+
+### R1D8 (August 28, 2020)
+
+Reviewed some aggregation functions for Postgresql.
+Did some exercises on pgexercises.com.
