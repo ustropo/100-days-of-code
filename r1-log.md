@@ -46,3 +46,8 @@ Designed tables for my irrigation system.
 
 Reviewed some aggregation functions for Postgresql.
 Did some exercises on pgexercises.com.
+
+### R1D9 (August 29, 2020)
+
+Read some tutorials from postgresqltutorial.com.
+Did some exercises on pgexercises.com.
