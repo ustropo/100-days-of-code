@@ -65,3 +65,8 @@ Did some exercises on pgexercises.com.
 
 Did some exercises on HackerRank.
 Learned about pivot tables.
+
+## R1D13 (September 2, 2020)
+
+Did more exercises on HackerRank.
+Earned my 3rd star in my sql badge.
