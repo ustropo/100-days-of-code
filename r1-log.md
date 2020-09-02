@@ -52,11 +52,16 @@ Did some exercises on pgexercises.com.
 Read some tutorials from postgresqltutorial.com.
 Did some exercises on pgexercises.com.
 
-## R1D10 (August 30, 2020)
+### R1D10 (August 30, 2020)
 
 Rest.
 
-## R1D11 (August 31, 2020)
+### R1D11 (August 31, 2020)
 
 Learned about window functions.
 Did some exercises on pgexercises.com.
+
+### R1D12 (September 1, 2020)
+
+Did some exercises on HackerRank.
+Learned about pivot tables.
