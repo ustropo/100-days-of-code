@@ -70,3 +70,15 @@ Learned about pivot tables.
 
 Did more exercises on HackerRank.
 Earned my 3rd star in my sql badge.
+
+
+## R1D14 (September 3, 2020)
+
+Rest
+
+
+## R1D15 (September 4, 2020)
+
+Did more exercises on aggregation on Hackerrank.
+Earned my 4th start in my sql badge.
+
