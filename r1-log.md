@@ -6,6 +6,11 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+## R1D16 (September 5, 2020)
+
+Did more exercises on joins and aggregation on Hackerrank.
+Earned my 5th star in my sql badge.
+
 ### R1D15 (September 4, 2020)
 
 Did more exercises on aggregation on Hackerrank.
