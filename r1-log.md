@@ -6,6 +6,15 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+### R1D18 (September 7, 2020)
+
+Did some exercises on pgexercises.com.
+
+
+### R1D17 (September 6, 2020)
+
+Rest
+
 ## R1D16 (September 5, 2020)
 
 Did more exercises on joins and aggregation on Hackerrank.
