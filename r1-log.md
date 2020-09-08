@@ -6,6 +6,11 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+### R1D19 (September 8, 2020)
+
+Created database and API for my gardening project, using Postgresql and FastAPI.
+
+
 ### R1D18 (September 7, 2020)
 
 Did some exercises on pgexercises.com.
