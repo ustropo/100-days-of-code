@@ -6,6 +6,12 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+### R1D20 (September 9, 2020)
+
+Improved API with new endpoints and created some SQL queries in Python.
+Watched some tutorials on YouTube about SQL-Alchemy.
+
+
 ### R1D19 (September 8, 2020)
 
 Created database and API for my gardening project, using Postgresql and FastAPI.
