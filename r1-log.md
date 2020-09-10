@@ -6,6 +6,11 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+### R1D21 (September 10, 2020)
+
+Implemented an authentication middleware for my API using JWT.
+Created a table to store the users data and also their logins.
+
 ### R1D20 (September 9, 2020)
 
 Improved API with new endpoints and created some SQL queries in Python.
