@@ -6,6 +6,12 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+### R1D22 (September 11, 2020)
+
+Studied about grouping sets, cube and rollup on Postgresql.
+Did not understand much.
+
+
 ### R1D21 (September 10, 2020)
 
 Implemented an authentication middleware for my API using JWT.
