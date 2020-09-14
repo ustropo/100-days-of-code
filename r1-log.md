@@ -6,6 +6,14 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+### R1D24 (September 13, 2020)
+
+Rest
+
+### R1D23 (September 12, 2020)
+
+Rest
+
 ### R1D22 (September 11, 2020)
 
 Studied about grouping sets, cube and rollup on Postgresql.
