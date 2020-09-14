@@ -6,6 +6,10 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+### R1D25 (September 14, 2020)
+
+Did more exercises on Hackerrank.
+
 ### R1D24 (September 13, 2020)
 
 Rest
