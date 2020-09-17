@@ -6,6 +6,14 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+### R1D27 (September 16, 2020)
+
+Read data from capacitive soil moisture using an ESP32 board and send it via MQTT to a RPi server.
+
+### R1D26 (September 15, 2020)
+
+Programmed the Arduino to read the sensors (humidity and temperature) and send data to the database.
+
 ### R1D25 (September 14, 2020)
 
 Did more exercises on Hackerrank.
