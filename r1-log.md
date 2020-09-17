@@ -6,6 +6,12 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+### R1D28 (September 17, 2020)
+
+Implemented a time-series database on MongoDB. 
+Acquired data with one-second period from an I2C humidity and temperature sensor using a RPi.
+
+
 ### R1D27 (September 16, 2020)
 
 Read data from capacitive soil moisture using an ESP32 board and send it via MQTT to a RPi server.
