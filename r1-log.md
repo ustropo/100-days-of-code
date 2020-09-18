@@ -6,6 +6,12 @@ This round will be about databases (SQL / NoSQL).
 
 ## Log
 
+### R1D29 (September 18, 2020)
+
+Read more about grouping sets, rolling up and cube on Postgresql.
+Did some exercises on Hackerrank.
+
+
 ### R1D28 (September 17, 2020)
 
 Implemented a time-series database on MongoDB. 
