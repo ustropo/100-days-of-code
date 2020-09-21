@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 21, Friday, 2020].
 
-This round will be about databases (SQL / NoSQL).
 
 ## Log
+
+### R1D32 (September 21, 2020)
+
+Installed selenium and started to code some webscraping codes.
+
 
 ### R1D31 (September 20, 2020)
 
