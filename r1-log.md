@@ -5,6 +5,10 @@ The log of my #100DaysOfCode challenge. Started on [August 21, Friday, 2020].
 
 ## Log
 
+### R1D33 (September 22, 2020)
+
+Solved some nice puzzles on CodingGame.
+
 ### R1D32 (September 21, 2020)
 
 Installed selenium and started to code some webscraping codes.
