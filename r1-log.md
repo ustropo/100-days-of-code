@@ -5,6 +5,11 @@ The log of my #100DaysOfCode challenge. Started on [August 21, Friday, 2020].
 
 ## Log
 
+### R1D34 (September 23, 2020)
+
+Solved more puzzles on CodingGame.
+
+
 ### R1D33 (September 22, 2020)
 
 Solved some nice puzzles on CodingGame.
