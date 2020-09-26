@@ -5,6 +5,14 @@ The log of my #100DaysOfCode challenge. Started on [August 21, Friday, 2020].
 
 ## Log
 
+### R1D37 (September 26, 2020)
+
+Solved more challenges on codingame.
+
+### R1D36 (September 25, 2020)
+
+Fixed some bugs on my gardening project backend.
+
 ### R1D35 (September 24, 2020)
 
 Read some tutorials about SQL on w3schools and watched some classes on Udemy.
