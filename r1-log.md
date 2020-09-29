@@ -5,6 +5,15 @@ The log of my #100DaysOfCode challenge. Started on [August 21, Friday, 2020].
 
 ## Log
 
+### R1D39 (September 28, 2020)
+
+Did some exercises on Hackerrank.
+Created a basic web page with a nice chart for my gardening project using Plotly and React.
+
+### R1D38 (September 27, 2020)
+
+Rest
+
 ### R1D37 (September 26, 2020)
 
 Solved more challenges on codingame.
