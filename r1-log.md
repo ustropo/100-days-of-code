@@ -5,6 +5,15 @@ The log of my #100DaysOfCode challenge. Started on [August 21, Friday, 2020].
 
 ## Log
 
+### R1D41 (September 30, 2020)
+
+Did some exercises on CodinGame.
+Reached level 12 on Python.
+
+### R1D40 (September 29, 2020)
+
+Watched some tutorials on YouTube.
+
 ### R1D39 (September 28, 2020)
 
 Did some exercises on Hackerrank.
