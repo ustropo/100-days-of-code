@@ -5,6 +5,18 @@ The log of my #100DaysOfCode challenge. Started on [August 21, Friday, 2020].
 
 ## Log
 
+### R1D47 (October 6, 2020)
+
+Tested the electronic and mechanical circuits for the gardening project.
+
+### R1D46 (October 5, 2020)
+
+Read some tutorials on Postgresql.
+
+### R1D42-D45 (October 1-4, 2020)
+
+Took the weekend for a rest.
+
 ### R1D41 (September 30, 2020)
 
 Did some exercises on CodinGame.
