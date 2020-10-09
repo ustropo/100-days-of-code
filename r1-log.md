@@ -5,6 +5,19 @@ The log of my #100DaysOfCode challenge. Started on [August 21, Friday, 2020].
 
 ## Log
 
+### R1D50 (October 9, 2020)
+
+Did some exercises on Hackerrank.
+Watched some lessons on Udemy.
+
+### R1D49 (October 8, 2020)
+
+Integrated proximity, humidity and pressure sensors with ESP32.
+
+### R1D48 (October 7, 2020)
+
+Watched tutorials on Youtube.
+
 ### R1D47 (October 6, 2020)
 
 Tested the electronic and mechanical circuits for the gardening project.
